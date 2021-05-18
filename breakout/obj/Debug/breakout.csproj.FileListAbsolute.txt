@@ -1,0 +1,11 @@
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.Form1.resources
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.Properties.Resources.resources
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.csproj.GenerateResource.cache
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\breakout\breakout\bin\Debug\breakout.exe.config
+C:\Users\Harun\source\repos\breakout\breakout\bin\Debug\breakout.exe
+C:\Users\Harun\source\repos\breakout\breakout\bin\Debug\breakout.pdb
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.exe
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.pdb
+C:\Users\Harun\source\repos\breakout\breakout\obj\Debug\breakout.KullaniciAdi.resources
